@@ -1,1 +1,1 @@
-echo "Install version 1.3"
+echo "Install version 1.4"
